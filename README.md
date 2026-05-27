@@ -1,34 +1,36 @@
-# atd
+# Alex Davis
 
 I build applied AI products, agent workflows, and market infrastructure.
 
-Currently focused on products that make autonomous software useful in the real world: trading systems, agent-native workflows, payments, and operational automation.
+Current focus: software that makes autonomous systems useful in the real world: agent-native operations, payments, trading workflows, and practical sales/research tools.
 
-## Current work
+## Active Products
 
-- **Taborlin** — agent-native software and automation products: https://taborlin.co
-- **Sharp** — live prediction-market tooling and Kalshi/UFC execution infrastructure.
-- **CheapTokens** — x402 payments and AI-credit purchasing flows.
-- **Saga** — multi-agent creative production infrastructure.
+- **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, x402 payments, and OpenAI-compatible inference workflows.
+- **[Sharp](https://sharp.taborlin.co)** — UFC and prediction-market research/execution infrastructure.
+- **[Champion](https://champion.taborlin.co)** — AE operating system for account research, trigger detection, MEDDICC, and next-best-action workflows.
+- **[Taborlin](https://taborlin.co)** — agent-native software studio.
 
-Some active products are private while they are being built, but the pattern is consistent: ship small, automate the boring parts, and turn messy workflows into reliable systems.
+Some product repositories are private while they involve payments, trading, customer data, or active product work. Public repos below show the build pattern.
 
-## Public projects
+## Public Projects
 
-- **[taborlin](https://github.com/alde1022/taborlin)** — company site for Taborlin.
-- **[spatix](https://github.com/alde1022/spatix)** — maps in seconds, no GIS skills needed.
-- **[firebase-neon-template](https://github.com/alde1022/firebase-neon-template)** — production-ready Next.js starter with Firebase Auth, Neon Postgres, and Drizzle ORM.
-- **[onchain-wallets-dashboard](https://github.com/alde1022/onchain-wallets-dashboard)** — dashboard for exploring onchain wallet activity.
+- **[spatix](https://github.com/0xatd/spatix)** — AI-assisted geospatial tooling: maps in seconds, no GIS skills required.
+- **[cheaptokens-skills](https://github.com/0xatd/cheaptokens-skills)** — agent skill pack for using CheapTokens credits and Venice AI-compatible workflows.
+- **[onchain-wallets-dashboard](https://github.com/0xatd/onchain-wallets-dashboard)** — dashboard for exploring onchain wallet activity and transaction patterns.
+- **[weatherxm-venice-forecast-video](https://github.com/0xatd/weatherxm-venice-forecast-video)** — recipe for turning forecast data into AI-generated weather videos.
+- **[firebase-neon-template](https://github.com/0xatd/firebase-neon-template)** — production-ready Next.js starter with Firebase Auth, Neon Postgres, and Drizzle ORM.
+- **[taborlin](https://github.com/0xatd/taborlin)** — company site for Taborlin.
 
-## Focus areas
+## Focus Areas
 
 - Applied AI and autonomous agents
+- Agent-native payments and x402 flows
 - Prediction markets and trading infrastructure
-- Crypto payments and x402 flows
-- Product automation and founder tooling
-- Full-stack TypeScript / Next.js / Python systems
+- Sales/research automation for operators
+- Full-stack TypeScript, Next.js, Python, Postgres
 
-## Contact
+## Links
 
-- Website: https://taborlin.co
+- Website: [taborlin.co](https://taborlin.co)
 - X: [@0xatd](https://x.com/0xatd)
