@@ -7,7 +7,6 @@ Current focus: software that makes autonomous systems useful in the real world: 
 ## Active Products
 
 - **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, x402 payments, and OpenAI-compatible inference workflows.
-- **[Sharp](https://sharp.taborlin.co)** — UFC and prediction-market research/execution infrastructure.
 - **[Champion](https://champion.taborlin.co)** — AE operating system for account research, trigger detection, MEDDICC, and next-best-action workflows.
 - **[Taborlin](https://taborlin.co)** — agent-native software studio.
 
@@ -26,7 +25,6 @@ Some product repositories are private while they involve payments, trading, cust
 
 - Applied AI and autonomous agents
 - Agent-native payments and x402 flows
-- Prediction markets and trading infrastructure
 - Sales/research automation for operators
 - Full-stack TypeScript, Next.js, Python, Postgres
 
