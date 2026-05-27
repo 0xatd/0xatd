@@ -1,4 +1,4 @@
-# Alex Davis
+# 0xatd
 
 I build applied AI products, agent workflows, and market infrastructure.
 
