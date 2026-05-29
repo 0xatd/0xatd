@@ -7,10 +7,21 @@ Current focus: software that makes autonomous systems useful in the real world: 
 ## Active Products
 
 - **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, x402 payments, and OpenAI-compatible inference workflows.
+- **[Saga](https://saga.taborlin.co/app)** — agent OS and command center for durable work orders, approvals, decisions, outputs, and project memory.
 - **[Champion](https://champion.taborlin.co)** — AE operating system for account research, trigger detection, MEDDICC, and next-best-action workflows.
 - **[Taborlin](https://taborlin.co)** — agent-native software studio.
 
-Some product repositories are private while they involve payments, trading, customer data, or active product work. Public repos below show the build pattern.
+Several active products are private because they involve payments, trading workflows, customer data, or live operating systems. I describe the product surface publicly where useful; code is private by default until it is safe to open.
+
+## Selected Private Builds
+
+- **[Saga](https://saga.taborlin.co/app)** — agent-native operating system for tracking work orders, outputs, approvals, decisions, assets, and next actions.
+- **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credit marketplace with x402 payments and OpenAI-compatible inference workflows.
+- **Atlas** — internal growth and decision OS for managing outbound ideas, approvals, publishing cadence, and operating memos.
+- **[Sharp](https://sharp.taborlin.co)** — prediction-market and fight-research infrastructure for safer Kalshi workflow execution.
+- **[Champion](https://champion.taborlin.co)** — AE workflow product for account research, trigger detection, MEDDICC, and next-best action.
+- **[Taborlin Weather](https://weather.taborlin.co)** — commercialization strategy site for weather intelligence and decision-service consulting.
+- **[Smart Stores](https://micromarket.taborlin.co)** — premium unattended retail amenity site for property owners.
 
 ## Public Projects
 
