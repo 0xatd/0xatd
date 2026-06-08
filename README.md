@@ -1,5 +1,11 @@
 # 0xatd
 
+## What this is
+
+This is Alex's public GitHub profile README. It should give outsiders a concise map of the active public/private product portfolio without leaking private operational details.
+
+Status: public-facing profile. Keep product descriptions current, high-level, and safe.
+
 I build applied AI products, agent workflows, and market infrastructure.
 
 Current focus: software that makes autonomous systems useful in the real world: agent-native operations, payments, trading workflows, and practical sales/research tools.
