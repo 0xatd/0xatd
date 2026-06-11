@@ -2,7 +2,7 @@
 
 I build applied AI products, agent workflows, and market infrastructure.
 
-Current focus: making autonomous systems useful in the real world: agent-native operations, paid APIs, trading workflows, and practical sales/research tools.
+Current focus: making autonomous systems useful in the real world: agent-native operations, paid APIs, trading workflows, and practical revenue tools.
 
 ## Building
 
@@ -10,7 +10,7 @@ Current focus: making autonomous systems useful in the real world: agent-native 
 - **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, x402 payments, and OpenAI-compatible inference workflows.
 - **[Saga](https://saga.taborlin.co/app)** — agent OS for durable work orders, approvals, decisions, outputs, assets, and project memory.
 - **[Champion](https://champion.taborlin.co)** — revenue-memory and account-workflow tooling for AE/BD operators.
-- **[Sharp](https://sharp.taborlin.co)** — prediction-market and fight-research infrastructure for safer Kalshi workflows.
+- **[Sharp](https://sharp.taborlin.co)** — prediction-market execution and risk tooling for safer Kalshi workflows.
 
 Most active product code is private by default when it touches payments, trading, customer data, live operating systems, or unpublished product strategy.
 
@@ -28,7 +28,7 @@ Most active product code is private by default when it touches payments, trading
 - Applied AI products and autonomous agents
 - Agent-native operations and durable work systems
 - x402, paid APIs, and AI-credit workflows
-- Sales/research automation for operators
+- Revenue workflow automation for operators
 - Full-stack TypeScript, Next.js, Python, Postgres
 
 ## Links
