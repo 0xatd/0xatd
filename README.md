@@ -1,35 +1,20 @@
 # 0xatd
 
-## What this is
-
-This is Alex's public GitHub profile README. It should give outsiders a concise map of the active public/private product portfolio without leaking private operational details.
-
-Status: public-facing profile. Keep product descriptions current, high-level, and safe.
-
 I build applied AI products, agent workflows, and market infrastructure.
 
-Current focus: software that makes autonomous systems useful in the real world: agent-native operations, payments, trading workflows, and practical sales/research tools.
+Current focus: making autonomous systems useful in the real world: agent-native operations, paid APIs, trading workflows, and practical sales/research tools.
 
-## Active Products
+## Building
 
+- **[Taborlin](https://taborlin.co)** — an agent-native software studio.
 - **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, x402 payments, and OpenAI-compatible inference workflows.
-- **[Saga](https://saga.taborlin.co/app)** — agent OS and command center for durable work orders, approvals, decisions, outputs, and project memory.
-- **[Champion](https://champion.taborlin.co)** — AE operating system for account research, trigger detection, MEDDICC, and next-best-action workflows.
-- **[Taborlin](https://taborlin.co)** — agent-native software studio.
+- **[Saga](https://saga.taborlin.co/app)** — agent OS for durable work orders, approvals, decisions, outputs, assets, and project memory.
+- **[Champion](https://champion.taborlin.co)** — revenue-memory and account-workflow tooling for AE/BD operators.
+- **[Sharp](https://sharp.taborlin.co)** — prediction-market and fight-research infrastructure for safer Kalshi workflows.
 
-Several active products are private because they involve payments, trading workflows, customer data, or live operating systems. I describe the product surface publicly where useful; code is private by default until it is safe to open.
+Most active product code is private by default when it touches payments, trading, customer data, live operating systems, or unpublished product strategy.
 
-## Selected Private Builds
-
-- **[Saga](https://saga.taborlin.co/app)** — agent-native operating system for tracking work orders, outputs, approvals, decisions, assets, and next actions.
-- **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credit marketplace with x402 payments and OpenAI-compatible inference workflows.
-- **Atlas** — internal growth and decision OS for managing outbound ideas, approvals, publishing cadence, and operating memos.
-- **[Sharp](https://sharp.taborlin.co)** — prediction-market and fight-research infrastructure for safer Kalshi workflow execution.
-- **[Champion](https://champion.taborlin.co)** — AE workflow product for account research, trigger detection, MEDDICC, and next-best action.
-- **[Taborlin Weather](https://weather.taborlin.co)** — commercialization strategy site for weather intelligence and decision-service consulting.
-- **[Smart Stores](https://micromarket.taborlin.co)** — premium unattended retail amenity site for property owners.
-
-## Public Projects
+## Public Repos
 
 - **[spatix](https://github.com/0xatd/spatix)** — AI-assisted geospatial tooling: maps in seconds, no GIS skills required.
 - **[cheaptokens-skills](https://github.com/0xatd/cheaptokens-skills)** — agent skill pack for using CheapTokens credits and Venice AI-compatible workflows.
@@ -40,8 +25,9 @@ Several active products are private because they involve payments, trading workf
 
 ## Focus Areas
 
-- Applied AI and autonomous agents
-- Agent-native payments and x402 flows
+- Applied AI products and autonomous agents
+- Agent-native operations and durable work systems
+- x402, paid APIs, and AI-credit workflows
 - Sales/research automation for operators
 - Full-stack TypeScript, Next.js, Python, Postgres
 
