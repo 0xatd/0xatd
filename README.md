@@ -2,7 +2,7 @@
 
 I build production AI products, automation systems, and operator tools that turn messy workflows into working software.
 
-I am most useful when the problem spans product judgment, full-stack implementation, data/API design, and real-world operations: AI agents, revenue workflows, paid APIs, geospatial tools, and risk-sensitive systems.
+My best work sits between product strategy and implementation: finding the wedge, shipping the first useful version, and building the operational systems underneath it.
 
 ## What I Build
 
@@ -14,12 +14,18 @@ I am most useful when the problem spans product judgment, full-stack implementat
 
 ## Selected Product Work
 
-- **[Taborlin](https://taborlin.co)** — agent-native software studio for applied AI and automation products.
-- **[Soshi](https://soshi.taborlin.co)** — social growth command center with approval queues, agent-managed accounts, scheduling, and learning loops.
-- **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits with x402 payments and OpenAI-compatible workflows.
-- **[Factory](https://factory.taborlin.co)** — content production cockpit for scripts, assets, approvals, render jobs, and publishing workflows.
-- **[Champion](https://champion.taborlin.co)** — revenue-memory and account-workflow tooling for AE/BD operators.
+- **[CheapTokens](https://cheaptokens.ai)** — an Airbnb-style market for AI inference: builders buy discounted access to usable model capacity instead of paying full retail for every API call.
+  - Under the hood: Venice AI API credits, OpenAI-compatible inference workflows, x402 payments, account balances, purchase flows, and operator capacity management.
+- **[Soshi](https://soshi.taborlin.co)** — a social media growth platform for founders, creators, products, and AI agents: plan content, approve posts, schedule campaigns, find engagement targets, and learn what works.
+  - Under the hood: Supabase auth, multi-account workspaces, AI drafting, approval queues, scheduling, X workflow automation, metrics, and agent-managed account controls.
 - **[Sharp](https://sharp.taborlin.co)** — prediction-market execution and risk tooling for safer Kalshi workflows.
+  - Under the hood: market scanners, backend services, restricted operator surfaces, risk gates, execution workflows, and live-system monitoring.
+- **[Taborlin](https://taborlin.co)** — an applied AI studio for turning automation ideas into real products.
+  - Under the hood: product discovery, full-stack builds, agent workflows, data/API design, and production operations.
+- **[Factory](https://factory.taborlin.co)** — a content production cockpit for scripts, assets, approvals, render jobs, and publishing workflows.
+  - Under the hood: durable project state, approvals, asset tracking, production contracts, QA gates, and content automation.
+- **[Champion](https://champion.taborlin.co)** — revenue-memory and account-workflow tooling for AE/BD operators.
+  - Under the hood: account research, follow-up workflows, relationship memory, CRM-adjacent data, and deal-operation tooling.
 
 Most active product code is private when it touches payments, trading, customer data, live operating systems, or unpublished product strategy.
 
