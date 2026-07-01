@@ -8,9 +8,9 @@ Current focus: making autonomous systems useful in the real world — agent-nati
 
 ## Featured Work
 
-### [CheapTokens](https://cheaptokens.ai) — onchain AI inference marketplace
+### [CheapTokens](https://cheaptokens.ai) — discounted marketplace for Venice AI API credits
 
-An Airbnb-style market for AI inference: builders buy discounted, OpenAI-compatible model access instead of paying full retail for every API call.
+An Airbnb-style market for AI inference: builders buy discounted Venice AI API credits and get OpenAI-compatible model access without paying full retail for every API call.
 
 Under the hood: Venice AI API credit resale, x402 payments, USDC on Base, wallet-authenticated purchases, time-based discounting, account balances, instant API-key delivery, and OpenAI-compatible inference workflows.
 
