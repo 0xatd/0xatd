@@ -1,67 +1,33 @@
 # atd · 0xatd
 
-I build applied AI products, agent-native tooling, and onchain payment infrastructure — and I ship them as live products, not demos.
+I build software across AI, developer tools, maps, games, and payments. My background spans product building and sales; I run [Taborlin](https://taborlin.co), my consulting business and home for my own projects.
 
-Current focus: making autonomous systems useful in the real world — agent-native operations, paid APIs, prediction-market tooling, and onchain inference payments.
+## Current work
 
-[taborlin.co](https://taborlin.co) · [@0xatd](https://x.com/0xatd)
+- **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, built on Venice/DIEM. Checkout, onchain payments, credit accounting, and agent integration. **Live product · private application code · [public agent skills](https://github.com/0xatd/cheaptokens-skills).** [Project notes](projects/cheaptokens.md)
+- **Crypto records and reconciliation** — transaction tracing, missing-cost-basis investigation, and evidence-backed review. **Private development · [earlier public code](https://github.com/0xatd/onchain-wallets-dashboard).** The public repository is not the latest private build. [Project notes](projects/crypto-records.md)
 
-## Featured Work
+## Selected past work
 
-### [CheapTokens](https://cheaptokens.ai) — discounted marketplace for Venice AI API credits
+I retire hosted services when they no longer justify the infrastructure or maintenance. The work stays here as code, project notes, and selected screenshots—not broken demo links.
 
-An Airbnb-style market for AI inference: builders buy discounted Venice AI API credits and get OpenAI-compatible model access without paying full retail for every API call.
+| Project | What I built | Status & evidence |
+| --- | --- | --- |
+| **[Spatix](projects/spatix.md)** | Geospatial file processing, interactive maps, APIs, and a Python MCP server | Hosted service retired · public code |
+| **[Studio](projects/studio.md)** | AI-assisted film planning, 3D scene blocking, and generation workflows | Retired · private code · historical screenshot |
+| **[Champion](projects/champion.md)** | Sales research, account context, and a portable revenue-memory workspace | Retired · private code · historical screenshot |
+| **[Sharp](projects/sharp.md)** | Prediction-market research, feed comparison, and edge-scanning interfaces | Retired · private code · historical screenshot |
 
-Under the hood: Venice AI API credit resale, x402 payments, USDC on Base, wallet-authenticated purchases, time-based discounting, account balances, instant API-key delivery, and OpenAI-compatible inference workflows.
+## Open-source tools & experiments
 
-`x402` `USDC` `Base` `Venice AI` `OpenAI-compatible` `Next.js` `Postgres`
+- **[CheapTokens Skills](https://github.com/0xatd/cheaptokens-skills)** — my credit-routing skill plus attributed, synced Venice API skills.
+- **[Weather-to-video recipe](https://github.com/0xatd/weatherxm-venice-forecast-video)** — Python pipeline for forecast data, video generation, and compositing. Includes a [sample video](https://github.com/0xatd/weatherxm-venice-forecast-video/blob/main/examples/athens-2026-05-15/final-demo.mp4).
+- **[Agent Skill Tree](https://github.com/0xatd/skill-tree)** — an interactive experiment for designing agent capabilities and exporting specs.
+- **[Zillions](https://github.com/0xatd/zillions)** — browser-game experimentation around persistent characters and cooperative play. Development project, not a finished MMO.
+- **[Firebase + Neon starter](https://github.com/0xatd/firebase-neon-template)** — reusable Next.js authentication and database scaffolding.
 
-### [spatix](https://github.com/0xatd/spatix) — AI-native geospatial tooling · [spatix-mcp on PyPI](https://pypi.org/project/spatix-mcp/)
+## Public and private work
 
-Turn plain-language requests or raw geospatial files into shareable maps in seconds — no GIS skills required.
+Public repositories are linked above. Some production applications, client work, and personal-data tools remain private. Public project notes describe the work without publishing private code or customer data. Forks and vendored components retain their upstream credit.
 
-Ships a public repo, a published MCP server, and direct API surfaces so agents can create maps programmatically.
-
-`MCP` `Next.js` `FastAPI` `MapLibre GL` `GeoPandas` `AI agents`
-
-## Also Building
-
-- **[Soshi](https://soshi.taborlin.co)** — social media growth platform for founders, creators, products, and AI agents. Plan content, approve posts, schedule campaigns, find engagement targets, and learn what works. Built with Supabase auth, multi-account workspaces, AI drafting, approval queues, X workflow automation, metrics, and agent-managed account controls.
-- **[Sharp](https://sharp.taborlin.co)** — prediction-market scanner, execution, and risk tooling for Kalshi/Polymarket/Overtime workflows. Built with FastAPI, market scrapers, backend services, restricted operator surfaces, risk gates, and live-system monitoring.
-- **[Taborlin](https://taborlin.co)** — applied AI studio behind the product work. Product discovery, full-stack builds, agent workflows, data/API design, and production operations.
-- **[Factory](https://factory.taborlin.co)** — content production cockpit for scripts, assets, approvals, render jobs, and publishing workflows.
-- **[Champion](https://champion.taborlin.co)** — revenue-memory and account-workflow tooling for AE/BD operators.
-
-Most active product code is private by default when it touches payments, trading, customer data, live operating systems, or unpublished product strategy.
-
-## Public Code
-
-| Repo | What it is |
-| --- | --- |
-| [spatix](https://github.com/0xatd/spatix) | AI-assisted geospatial tooling — maps in seconds, published MCP server on PyPI |
-| [cheaptokens-skills](https://github.com/0xatd/cheaptokens-skills) | Agent skill pack for CheapTokens credits, OpenAI-compatible calls, and x402 purchase flows |
-| [skill-tree](https://github.com/0xatd/skill-tree) | Interactive UI for designing agent capabilities and exporting agent specs |
-| [onchain-wallets-dashboard](https://github.com/0xatd/onchain-wallets-dashboard) | TypeScript dashboard for exploring onchain wallet activity and transaction patterns |
-| [weatherxm-venice-forecast-video](https://github.com/0xatd/weatherxm-venice-forecast-video) | Python recipe turning forecast data into AI-generated weather videos |
-| [firebase-neon-template](https://github.com/0xatd/firebase-neon-template) | Production-ready Next.js starter: Firebase Auth + Neon Postgres + Drizzle ORM |
-| [taborlin](https://github.com/0xatd/taborlin) | Company site for the Taborlin studio |
-
-## Stack & Focus
-
-- **Applied AI & autonomous agents** — agent-native operations, durable work systems, MCP servers
-- **Onchain payments** — x402, USDC on Base, paid APIs, AI-credit workflows
-- **Revenue tooling** — workflow automation for AE/BD and growth operators
-- **Markets & risk** — prediction-market scanners, execution workflows, risk gates
-- **Full-stack** — TypeScript, Next.js/React, Python, FastAPI, Postgres, Supabase, Solidity, SQL
-
-## Good Fits
-
-- Consulting projects where an AI prototype needs to become a real product
-- Internal tools for teams drowning in manual workflows
-- Agentic systems that need guardrails, approvals, and operational visibility
-- Full-stack product roles around AI, fintech, marketplaces, geospatial, or automation
-
-## Links
-
-- Website: [taborlin.co](https://taborlin.co)
-- X: [@0xatd](https://x.com/0xatd)
+For project work or product/engineering roles: [Taborlin](https://taborlin.co) · [X](https://x.com/0xatd)
