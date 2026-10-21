@@ -5,7 +5,7 @@ I build software across AI, developer tools, maps, games, and payments. I also w
 ## Current work
 
 - **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, built on Venice/DIEM. Checkout, onchain payments, credit accounting, and agent integration. **Live product · private application code · [public agent skills](https://github.com/0xatd/cheaptokens-skills).** [Project notes](projects/cheaptokens.md)
-- **Crypto records and reconciliation** — transaction tracing, missing-cost-basis investigation, and evidence-backed review. **Private development · [earlier public code](https://github.com/0xatd/onchain-wallets-dashboard).** [Project notes](projects/crypto-records.md)
+- **Crypto accounting** — making crypto taxes cheaper and easier with software and AI that trace transactions, investigate missing cost basis, and help find forgotten wallets. **Private development · [earlier public code](https://github.com/0xatd/onchain-wallets-dashboard).** [Project notes](projects/crypto-records.md)
 
 ## Selected past work
 
