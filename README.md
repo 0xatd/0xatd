@@ -6,7 +6,6 @@ I build software across AI, developer tools, maps, games, and payments. I also w
 
 - **[CheapTokens](https://cheaptokens.ai)** — discounted AI API credits, built on Venice/DIEM. Checkout, onchain payments, credit accounting, and agent integration. **Live product · private application code · [public agent skills](https://github.com/0xatd/cheaptokens-skills).** [Project notes](projects/cheaptokens.md)
 - **Crypto accounting** — making crypto taxes cheaper and easier with software and AI that trace transactions, investigate missing cost basis, and help find forgotten wallets. **Private development · [earlier public code](https://github.com/0xatd/onchain-wallets-dashboard).** [Project notes](projects/crypto-records.md)
-
 - **[Gum Gum Valley](https://pikem.taborlin.co/)** — a simple, fun 3D browser game I’m building with my five-year-old daughter, loosely inspired by Pikmin. **Playable work in progress · private code.** [Screenshots and game details](projects/gum-gum-valley.md)
 
 ## Selected past work
@@ -27,6 +26,10 @@ These projects are no longer hosted. You can browse the code, screenshots, and p
 - **[Agent Skill Tree](https://github.com/0xatd/skill-tree)** — an interactive experiment for designing agent capabilities and exporting specs.
 - **[Zillions](https://github.com/0xatd/zillions)** — a browser-game prototype with persistent characters and cooperative play.
 - **[Firebase + Neon starter](https://github.com/0xatd/firebase-neon-template)** — reusable Next.js authentication and database scaffolding.
+
+## Working with agents
+
+I run general-purpose AI agents across cloud and self-hosted infrastructure to work on more projects in parallel. I set up [Lyra](https://github.com/lyralai) on an old gaming laptop repurposed as a Linux server at home, accessed through Tailscale, alongside my primary cloud-hosted agent. Her GitHub shows examples of the work coming out of that setup.
 
 ## Public and private work
 
