@@ -16,8 +16,6 @@ Discounted Venice AI API credits for people and agents. I built and operate the 
 - Provider cooldown handling and recovery for eligible paid-but-undelivered purchases.
 - An agent router skill for discovering credits, checking expiry, and calling Venice endpoints.
 
-The public skill pack separates my CheapTokens routing work from the official Venice skills it vendors, with source and license attribution. The production application is private; the skill repository is not a mirror of that application.
-
-Venice is the provider integration for this product, not the scope of all my work.
+The public skill pack includes my CheapTokens router and Venice’s official API skills, with upstream source and license attribution.
 
 [Back to profile](../README.md)

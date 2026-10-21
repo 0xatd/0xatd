@@ -13,12 +13,10 @@ A prediction-market research application for comparing feeds, ranking potential 
 - A Next.js frontend and FastAPI backend.
 - Separate operator execution and risk-control code, kept apart from the public research interface.
 
-## Preserved interface
+## Screenshot
 
 ![Sharp historical interface](../assets/sharp-desktop.png)
 
-Captured September 13, 2026 from a local frontend with no live backend. The image shows the interface, not live prices, trading performance, or a working execution service.
-
-The hosted product was retired for cost control. Source remains private. No trading system needs to be restarted to inspect this portfolio entry.
+Local frontend preview, September 2026. No live backend connected.
 
 [Back to profile](../README.md)

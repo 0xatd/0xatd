@@ -22,6 +22,6 @@ A geospatial tool for turning files and structured location data into maps that 
 - [MCP server](https://github.com/0xatd/spatix/tree/main/mcp-server)
 - [Agent skill](https://github.com/0xatd/spatix/tree/main/skill)
 
-I retired the hosted service to reduce ongoing infrastructure and maintenance costs. The source and package remain as a record of the build. Old domains and hosted API examples are not maintained demos; installing the MCP package alone does not restore the retired backend. The README retains the architecture and setup material for inspection or adaptation.
+Hosting is retired. The source code and Python MCP package are still available, with setup instructions in the repository.
 
 [Back to profile](../README.md)

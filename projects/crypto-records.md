@@ -14,6 +14,6 @@ A wallet history is not a complete financial history. Transfers, exchange record
 - A more recent private implementation with receipt-backed tracing, a deterministic evidence collector, a shared investigation queue, and reviewable accounting proposals.
 - Tests for incomplete evidence, duplicate processing, custody continuity, and preservation of original source records.
 
-The private build is not published in the public repository. Personal transaction records, wallet ownership decisions, and audit evidence stay private. This is ongoing reconciliation software, not a claim that a complete tax audit has been finished or that generated figures are filing-ready.
+Development is ongoing. The public repository contains an earlier version; current development and financial records are private.
 
 [Back to profile](../README.md)
