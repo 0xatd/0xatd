@@ -18,6 +18,7 @@ These projects are no longer hosted. You can browse the code, screenshots, and p
 | **[Studio](projects/studio.md)** | AI-assisted film planning, 3D scene blocking, and generation workflows | Retired · private code · historical screenshot |
 | **[Champion](projects/champion.md)** | Sales research, account context, and a portable revenue-memory workspace | Retired · private code · historical screenshot |
 | **[Sharp](projects/sharp.md)** | Prediction-market research, feed comparison, and edge-scanning interfaces | Retired · private code · historical screenshot |
+| **[MyChessCoach](projects/chesscoach.md)** | Chess-game analysis, recurring-mistake detection, and personalized training | Retired · private code · live-app screenshots |
 
 ## Open-source tools & experiments
 
