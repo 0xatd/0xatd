@@ -6,7 +6,9 @@ Lead Captain Sprout and a team of little creatures through a colorful world. Eac
 
 **Work in progress · private code**
 
-![Gum Gum Valley’s colorful world and opening story](../assets/gum-gum-valley.png)
+![Gum Gum Valley — garden paths, pond, and colorful creatures](../assets/gum-gum-valley-garden.png)
+
+![Captain Sprout exploring the mushroom garden](../assets/gum-gum-valley-gameplay.png)
 
 ## How to play
 
