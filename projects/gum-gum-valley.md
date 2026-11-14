@@ -4,9 +4,7 @@ A simple, fun 3D browser game I’m building with my five-year-old daughter, loo
 
 Lead Captain Sprout and a team of little creatures through a colorful world. Each team has a different ability: pushing rocks, climbing ledges, crossing water, or running fast.
 
-**Playable work in progress · private code**
-
-[Play Gum Gum Valley](https://pikem.taborlin.co/)
+**Work in progress · private code**
 
 ![Gum Gum Valley’s colorful world and opening story](../assets/gum-gum-valley.png)
 
