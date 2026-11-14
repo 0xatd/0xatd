@@ -8,9 +8,11 @@ I build software across AI, developer tools, maps, games, and payments. I also w
 - **Crypto accounting** — making crypto taxes cheaper and easier with software and AI that trace transactions, investigate missing cost basis, and help find forgotten wallets. **Private development · [earlier public code](https://github.com/0xatd/onchain-wallets-dashboard).** [Project notes](projects/crypto-records.md)
 - **Gum Gum Valley** — a simple, fun 3D browser game I’m building with my five-year-old daughter, loosely inspired by Pikmin. **Work in progress · private code.**
 
-![Gum Gum Valley — garden paths, pond, and colorful creatures](assets/gum-gum-valley-garden.png)
-
-![Gum Gum Valley — Captain Sprout exploring the mushroom garden](assets/gum-gum-valley-gameplay.png)
+<p>
+  <img src="assets/gum-gum-valley-garden.png" width="140" alt="Gum Gum Valley garden and pond">
+  <img src="assets/gum-gum-valley-gameplay.png" width="140" alt="Captain Sprout in the mushroom garden">
+  <img src="assets/gum-gum-valley-exploring.png" width="140" alt="Exploring with the little creatures">
+</p>
 
 ## Selected past work
 
